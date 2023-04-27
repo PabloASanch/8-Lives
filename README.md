@@ -7,4 +7,4 @@
 <h4 align="center">Front-End E-Commers Website made with HTML & Bootstrap <a href="https://pabloasanch.github.io/8-Lives/" target="_blank"> RBC. Website </a>.</h4>
 
 
-![screenshot](https://github.com/PabloASanch/RBC-Ecommers/blob/main/thumnail.png)
+![screenshot](https://github.com/PabloASanch/8-Lives/blob/main/8livesthumnail.png)
